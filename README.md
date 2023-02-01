@@ -1,4 +1,3 @@
 # exercicios-metodos-arrays
 
-Javascript
-Node.js
+Exercícios praticados em 08/10/2022, utilizando Javascript/Node.js
